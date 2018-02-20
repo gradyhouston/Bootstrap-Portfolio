@@ -144,14 +144,14 @@ section {
   margin-top: 30px;
 }
 
-.about-line {
+/* .about-line {
   color: gray;
   background-color: lightgray;
   display: block;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: -20px;
-}
+} */
 
 .sidebar {
   /* border: 1px solid lightgray; */
@@ -201,14 +201,14 @@ section {
   margin-left: 0 auto
 }
 
-.connect-line {
+/* .connect-line {
   color: gray;
   background-color: lightgray;
   display: block;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: -20px;
-}
+} */
 
 /* .footer {
   position: absolute;
@@ -276,8 +276,8 @@ input[type=submit]:hover {
 /* Create two columns that float next to eachother */
 .column {
     float: left;
-    width: 88%;
-    margin-top: 6px;
+    width: 90%;
+    /* margin-top: -20px; */
     padding: 20px;
 }
 
